@@ -4,7 +4,7 @@ Proxy Grabber For Cracking
 
 
 # 💎 Open Source Project
-This Proxy Grabber Coded By Liltoba and created opensource
+This Proxy Grabber Coded By Liltoba and Open Source
 
 # ⚙️ List :
 🔷Http Grabber
