@@ -1,6 +1,3 @@
-# ProxyGRB
-Proxy Grabber
-
 # 🔥🔥 ProxyGRB 🔥🔥
 Proxy Grabber For Cracking
 ![Screenshot 2021-10-01 201303](https://i.imgur.com/SJ1u17s.png)
